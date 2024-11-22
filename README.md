@@ -1,6 +1,8 @@
 # [DT_Backend_Assignment](./DT%20Node.js%20Challanges.pdf)
 It's an assignment for the post of web-development in **DeepThought EduTech Ventures**.
 
+Task 1 is explained below & [Task 2 is here](./DT_Task_2.pdf).
+
 ## Prerequisites
 
 Before you start, ensure you have Node.js installed on your machine. If not, you can download and install it from [here](https://nodejs.org/).
